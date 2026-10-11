@@ -10,7 +10,7 @@ The AI chip market data covers many vendors, chip models, performance and power 
 - Read and clean the AI chip market dataset in R.
 - Build an interactive dashboard with R Shiny.
 - Filter the data by year, vendor and chip.
-- Show KPI cards: total records, number of vendors, estimated revenue, average FP16 TFLOPS.
+- Show KPI cards: total records, number of vendors, estimated revenue, average FP16 TFLOPS
 - Visualize revenue, shipments, selling price, performance and power, and study memory vs performance and revenue vs shipments.
 
 ## Dataset
